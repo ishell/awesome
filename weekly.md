@@ -14,6 +14,6 @@
   * [Ruby Weekly](http://rubyweekly.com)
 
 ##iOS
-  * ［Swift Sandbox](http://swiftsandbox.io/)
+  * [Swift Sandbox](http://swiftsandbox.io/)
 
   
