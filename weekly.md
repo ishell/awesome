@@ -1,19 +1,20 @@
-# awesome weekly
+# Awesome weekly
 
 一些自我感觉比较不错的weekly订阅网站。
 
-## HackerNews
-
+### HackerNews
   * [hackernewsletter](http://www.hackernewsletter.com/)
 
-##Database
+### Database
 
   * [Postgres Weekly](http://postgresweekly.com)
 
-##Ruby
+### Ruby
   * [Ruby Weekly](http://rubyweekly.com)
 
-##iOS
+### iOS
   * [Swift Sandbox](http://swiftsandbox.io/)
 
-  
+### LLVM
+  * [LLVM Weekly](http://llvmweekly.org)
+
