@@ -2,6 +2,14 @@
 
 虽然说订阅超过3个podcast就已经没有时间听了，但是还是备份一下自己的列表
 
+------
+**WOW 推荐**
+
+[Overcast](https://overcast.fm)出2.0版本了，功能（包括之前需要内购的）全部免费，
+作者发布了一篇[博文](http://www.marco.org/2015/10/09/overcast2)
+来阐述新功能以及新的商业模式。
+![Overcast Logo](img/overcast.svg)
+------
 ### 中文
 
   * 内核恐慌 [网站](https://ipn.li/kernelpanic/) [RSS](https://ipn.li/kernelpanic/feed) [iTunes](https://itunes.apple.com/cn/podcast/id928916244)
