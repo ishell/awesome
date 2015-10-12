@@ -8,7 +8,7 @@
 [Overcast](https://overcast.fm)出2.0版本了，功能（包括之前需要内购的）全部免费，
 作者发布了一篇[博文](http://www.marco.org/2015/10/09/overcast2)
 来阐述新功能以及新的商业模式。
-![Overcast Logo](https://raw.githubusercontent.com/ishell/awesome/master/img/overcast.svg)
+![Overcast Logo](https://d2uzvmey2c90kn.cloudfront.net/img/logo.svg)
 ------
 ### 中文
 
