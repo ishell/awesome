@@ -24,3 +24,7 @@
   * The Changelog [网站](https://changelog.com/) [RSS](http://feeds.5by5.tv/changelog) [iTunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
   * Hypercritical [网站](http://5by5.tv/hypercritical) [RSS](http://feeds.5by5.tv/hypercritical) [iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=414920759)
   * The Record [网站](http://therecord.co/) [RSS](http://therecord.co/xml/rss.xml) [iTunes](https://itunes.apple.com/us/podcast/the-record/id791861057)
+
+------
+
+[Do Xiao](https://twitter.com/disinfeqt) 推荐的[PodCast](https://li.st/l/0876058f-4057-43a5-a9b6-59be58f3d3f6)列表。
