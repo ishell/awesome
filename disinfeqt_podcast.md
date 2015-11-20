@@ -8,7 +8,7 @@
 * Design Details [网站](http://spec.fm/podcasts/design-details) [RSS](http://simplecast.fm/podcasts/1034/rss) [iTunes](https://itunes.apple.com/us/podcast/design-details/id947191070)
 * Exponent [网站](http://exponent.fm) [RSS](http://exponent.fm/feed/) [iTunes](https://itunes.apple.com/us/podcast/exponent/id826420969)
 * IT 公论 [网站](https://ipn.li/itgonglun/) [RSS](https://ipn.li/itgonglun/feed) [iTunes](https://itunes.apple.com/cn/podcast/id747497890)
-* Layout [网站](http://layout.fm) [RSS](http://layout.fm/rss) [RSS](https://itunes.apple.com/ca/podcast/layout/id1050276556)
+* Layout [网站](http://layout.fm) [RSS](http://layout.fm/rss) [iTunes](https://itunes.apple.com/ca/podcast/layout/id1050276556)
 * RA Podcast [网站](http://www.residentadvisor.net/podcast.aspx) [RSS](http://www.residentadvisor.net/xml/podcast.xml) [iTunes](http://itunes.apple.com/en/podcast/resident-advisor/id129673441)
 * Shattered Soulstone [网站](http://www.shatteredsoulstone.com) [RSS](http://feeds.feedburner.com/shatteredstone) [iTunes](http://itunes.apple.com/ca/podcast/shattered-soulstone-your-diablo/id472602587)
 * ShopTalk [网站](http://shoptalkshow.com) [RSS](http://shoptalkshow.com/feed/podcast/) [iTunes](http://itunes.apple.com/podcast/id493890455)

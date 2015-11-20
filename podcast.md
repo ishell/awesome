@@ -18,7 +18,7 @@
 ### English
 
   * Software Engineering Radio [网站](http://www.se-radio.net/) [RSS](http://feeds.feedburner.com/se-radio) [iTunes](https://itunes.apple.com/us/podcast/software-engineering-radio/id120906714)
-  * Debug [网站](http://www.imore.com/debug) [RSS](http://feeds.feedburner.com/debugshow) [iTunes](http://feeds.feedburner.com/debugshow)
+  * Debug [网站](http://www.imore.com/debug) [RSS](http://feeds.feedburner.com/debugshow) [iTunes](https://itunes.apple.com/us/podcast/debug/id578812394)
   * HANSELMINUTES PODCAST [网站](http://hanselminutes.com/) [RSS](http://feeds.podtrac.com/9dPm65vdpLL1) [iTunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860)
   * Accidental Tech Podcast [网站](http://atp.fm/) [RSS](http://atp.fm/episodes?format=rss) [iTunes](https://itunes.apple.com/us/podcast/accidental-tech-podcast/id617416468)
   * The Changelog [网站](https://changelog.com/) [RSS](http://feeds.5by5.tv/changelog) [iTunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
