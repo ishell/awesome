@@ -5,3 +5,4 @@
   * [awesome-weekly](weekly.md)
   * [awesome-podcast](podcast.md)
   * [awesome-book](book.md)
+  * [awesome-video](video.md)
