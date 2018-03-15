@@ -18,3 +18,5 @@
 ### LLVM
   * [LLVM Weekly](http://llvmweekly.org)
 
+### Clojure
+  * [The REPL](https://therepl.net)
