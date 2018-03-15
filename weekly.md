@@ -20,3 +20,4 @@
 
 ### Clojure
   * [The REPL](https://therepl.net)
+  * [ClojureTW](https://clojure.tw/weekly)
